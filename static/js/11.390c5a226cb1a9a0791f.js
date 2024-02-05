@@ -1,0 +1,2 @@
+webpackJsonp([11],{Y04d:function(e,t){},pRLV:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={components:{Bread:n("HtRn").a}},i={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("div",{staticClass:"banner container-fuild text-center"},[this._v("NEWS")]),this._v(" "),t("bread"),this._v(" "),t("router-view")],1)},staticRenderFns:[]};var s=n("APHF")(r,i,!1,function(e){n("Y04d")},null,null);t.default=s.exports}});
+//# sourceMappingURL=11.390c5a226cb1a9a0791f.js.map
